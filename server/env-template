@@ -1,0 +1,6 @@
+CLIENT_ID = xxx
+CLIENT_SECRET = xxx
+REDIRECT_URI = http://localhost:8081/callback
+SERVER_ADDRESS = http://localhost:8081
+SERVER_PORT = 8081
+FRONTEND_SERVER_ADDRESS = http://localhost:8080
